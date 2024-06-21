@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="regression Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.265">
+  <properties />
+  
+  
+            <testcase name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" time="1.439" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+                <testcase name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" time="1.752" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+                <testcase name="anAustralianComingToUKForTourism" time="1.074" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      
+</testsuite>
